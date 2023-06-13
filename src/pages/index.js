@@ -7,7 +7,6 @@ import { GatsbyImage } from 'gatsby-plugin-image';
 
 
 export default function Home({ data }) {
-  console.log(data);
   return (
     <Layout>
       <section className={header}>

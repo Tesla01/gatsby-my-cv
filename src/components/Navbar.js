@@ -21,6 +21,7 @@ export default function Navbar() {
                 <Link to="/">Home</Link>
                 <Link to="/about">About</Link>
                 <Link to="/projects">Portfolio Projects</Link>
+                <Link to="/cv">CV</Link>
             </div>
         </nav>
     );
